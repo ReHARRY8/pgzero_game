@@ -14,4 +14,5 @@ Credits for efx sounds from SoundBible.com
 
 [Space Invaders sounds](http://samples.mameworld.info/Unofficial%20Samples.htm)
 
+
 そんなことより部活嫌だ
